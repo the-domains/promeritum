@@ -1,0 +1,28 @@
+name: Promeritum
+favicon: null
+layout_spectrum: 0.12108780746348202
+typography_spectrum: 0.1720974938943982
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7911931944545358
+  lightness: 0.08533738064579666
+  saturation: 0.6661675663199276
+  rhythmicContrast: 0.7612436909694225
+purpose: []
